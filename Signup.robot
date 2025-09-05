@@ -20,7 +20,7 @@ Create Yahoo Account
     Click Create An Account
     Fill Sign Up Form
     Add Phone numer details and Verify
-    # Note: CAPTCHA and phone verification cannot be bypassed.
+    # Note: We cannot automate Phone number validation/ Captcha verification. So User can add correct phone number and submit the form
     Sleep    5
     [Teardown]    Close Browser
 
